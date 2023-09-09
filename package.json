@@ -1,0 +1,19 @@
+{
+    "name": "object-oriented-design-in-ts",
+    "version": "1.0.0",
+    "description": "Object Oriented Design in TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prettier-w": "prettier . --write",
+        "prettier-check": "prettier . --check"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^3.0.3",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.2.2"
+    }
+}
