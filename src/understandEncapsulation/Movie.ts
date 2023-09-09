@@ -1,7 +1,11 @@
+/**
+ * Note: the properties like title, year, genre below are being encapsulated
+ */
+
 class Movie {
-    title: string;
-    year: number;
-    genre: string;
+    private title: string;
+    private year: number;
+    private genre: string;
 
     // constructor
     constructor(t: string = '', y: number = -1, g: string = '') {
