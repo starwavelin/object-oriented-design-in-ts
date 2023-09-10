@@ -10,3 +10,15 @@ Object Oriented Design in TypeScript
     ```
     npm run dev ${corresponding_file_name}
     ```
+
+The codebase of this project can be divided into the following 3 sections: **The fundementals of OOD**, **Design Patterns**, and **Real-world Design Examples**
+
+## The fundementals of OOD
+
+-   [Encapsulation](src/understandEncapsulation/Movie.ts)
+-   [Abstraction](src/understandAbstraction/Circle.ts)
+-   [Inheritance](src/understandInheritance/VehicleDriver.ts)
+
+## Design Patterns
+
+## Real-world Design Examples
