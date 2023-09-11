@@ -18,6 +18,7 @@ The codebase of this project can be divided into the following 3 sections: **The
 -   [Encapsulation](src/understandEncapsulation/Movie.ts)
 -   [Abstraction](src/understandAbstraction/Circle.ts)
 -   [Inheritance](src/understandInheritance/VehicleDriver.ts)
+-   [Polymorphism - Method Overriding](src/understandPolymorphism/AnimalDriver.ts)
 
 ## Design Patterns
 
